@@ -1,0 +1,2 @@
+# cookbook
+Angular training exercise
